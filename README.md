@@ -7,3 +7,4 @@
 7. one week has 7 days
 8. [北斗7星](https://zh.wikipedia.org/zh/%E5%8C%97%E6%96%97%E4%B8%83%E6%98%9F)
 9. [127.0.0.1](https://en.wikipedia.org/wiki/Localhost)
+10. [seven steps to connect any people](https://en.wikipedia.org/wiki/Six_degrees_of_separation)
