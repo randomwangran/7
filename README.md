@@ -9,3 +9,4 @@
 9. [127.0.0.1](https://en.wikipedia.org/wiki/Localhost)
 10. [seven steps to connect any people](https://en.wikipedia.org/wiki/Six_degrees_of_separation)
 11. [1,2,3,4,7](https://en.wikipedia.org/wiki/Golden_spiral#/media/File:Lucas_number_spiral.svg)
+12. [7 verb](https://blog.fastfedora.com/2012/01/1-motto-7-verbs-for-2012.html)
