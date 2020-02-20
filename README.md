@@ -1,5 +1,7 @@
 1. [SI unit has 7 base unit](https://en.wikipedia.org/wiki/International_System_of_Units)
 2. rainbow has 7 colors
+
+    - I think SI unit was inspired by the rainbow: https://www.bipm.org/utils/common/pdf/SI-Illustration-Guidelines.pdf
 3. [Tim-horton reward card using 7 to reward people](https://www.timhortons.ca/?lang=en&locale-selected=1) 
 4. [7up](https://www.7up.com/en) 
 5. [Tonic sol-fa has 7 symbols](https://en.wikipedia.org/wiki/Tonic_sol-fa)
