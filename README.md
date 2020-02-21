@@ -14,3 +14,4 @@
 12. [7 verb](https://blog.fastfedora.com/2012/01/1-motto-7-verbs-for-2012.html)
 13. [there is 7% of %DV† in Vitamin K in Bell pepper](https://en.wikipedia.org/wiki/Bell_pepper)
 14. [the Seven Nations on the eve of the Seven Years' War](https://en.wikipedia.org/wiki/Seven_Nations_of_Canada)
+15. [It's about 7 Hz](https://youtu.be/M1t0egTZY44?t=1011)
