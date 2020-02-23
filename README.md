@@ -16,3 +16,4 @@
 14. [the Seven Nations on the eve of the Seven Years' War](https://en.wikipedia.org/wiki/Seven_Nations_of_Canada)
 15. [It's about 7 Hz](https://youtu.be/M1t0egTZY44?t=1011)
 16. [You get about 7](https://youtu.be/M1t0egTZY44?t=3825)
+17. [7-steps-to-great-visual-storytelling](https://digital.canada.ca/2020/01/28/7-steps-to-great-visual-storytelling/)
