@@ -18,3 +18,4 @@
 16. [You get about 7](https://youtu.be/M1t0egTZY44?t=3825)
 17. [7-steps-to-great-visual-storytelling](https://digital.canada.ca/2020/01/28/7-steps-to-great-visual-storytelling/)
 18. 1,1.5,2,2.5,3,3.5,4
+19. [Like 7 times](https://youtu.be/o0fG_lnVhHw?t=645)
