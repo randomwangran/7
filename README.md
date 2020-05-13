@@ -20,3 +20,4 @@
 18. 1,1.5,2,2.5,3,3.5,4
 19. [Like 7 times](https://youtu.be/o0fG_lnVhHw?t=645)
 20. [It takes me 7 years](https://youtu.be/AABgfjar8bc?t=129)
+21. [Berlin and Kay posit 7 levels in which cultures fall](https://en.wikipedia.org/wiki/Basic_Color_Terms:_Their_Universality_and_Evolution)
