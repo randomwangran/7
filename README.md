@@ -22,3 +22,4 @@
 ** TODO [FEA possible compare the stress distribution using different methods to cut holes on plate](https://youtu.be/o0fG_lnVhHw?t=664)
 20. [It takes me 7 years](https://youtu.be/AABgfjar8bc?t=129)
 21. [Berlin and Kay posit 7 levels in which cultures fall](https://en.wikipedia.org/wiki/Basic_Color_Terms:_Their_Universality_and_Evolution)
+22. [Identify the 7 layers of the OSI model](https://www.cloudflare.com/learning/ddos/glossary/open-systems-interconnection-model-osi/)
