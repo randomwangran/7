@@ -23,4 +23,4 @@
 20. [It takes me 7 years](https://youtu.be/AABgfjar8bc?t=129)
 21. [Berlin and Kay posit 7 levels in which cultures fall](https://en.wikipedia.org/wiki/Basic_Color_Terms:_Their_Universality_and_Evolution)
 22. [Identify the 7 layers of the OSI model](https://www.cloudflare.com/learning/ddos/glossary/open-systems-interconnection-model-osi/)
-23. [There are seven different power zones.](https://support.trainerroad.com/hc/en-us/articles/115005942786-Understanding-Power-Zones)
+23. [There are 7 different power zones.](https://support.trainerroad.com/hc/en-us/articles/115005942786-Understanding-Power-Zones)
